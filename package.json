@@ -1,10 +1,8 @@
 {
-  "name": "demo-ci-cd",
+  "name": "demo-semantic-versioning",
   "version": "1.0.0",
+  "description": "Práctica de Semantic Versioning - AUY1102",
   "scripts": {
-    "test": "jest"
-  },
-  "devDependencies": {
-    "jest": "^29.7.0"
+    "start": "node index.js"
   }
 }
